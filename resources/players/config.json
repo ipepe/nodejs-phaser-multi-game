@@ -1,0 +1,61 @@
+{
+	"type": "Collection",
+	"properties": {
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "name",
+			"order": 0
+		},
+		"direction": {
+			"name": "direction",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "direction",
+			"order": 1
+		},
+		"xCord": {
+			"name": "xCord",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "xCord",
+			"order": 2
+		},
+		"yCord": {
+			"name": "yCord",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "yCord",
+			"order": 3
+		},
+		"updateTime": {
+			"name": "updateTime",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "updateTime",
+			"order": 4
+		},
+		"charaGfx": {
+			"name": "charaGfx",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "charaGfx",
+			"order": 5
+		},
+		"charaNoGfx": {
+			"name": "charaNoGfx",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "charaNoGfx",
+			"order": 6
+		}
+	}
+}

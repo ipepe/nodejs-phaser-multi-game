@@ -1,0 +1,15 @@
+{
+  "name": "myPhaserGame",
+  "version": "0.1.0",
+  "description": "phaser rpg-multiplayer game with reddit",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Patryk Ptasinski",
+  "license": "ISC",
+  "dependencies": {
+    "deployd": "^0.7.0"
+  }
+}
